@@ -23,4 +23,4 @@ Space: Pause
 More detailed content you can find in the Game Documentation file
 
 ### Bug
-If you encounter the situation that enemy shows -1, please pause and restart the game. Sometimes it happens but I don't know why. 
+If you encounter the situation that enemy shows -1, please pause and restart the game. Sometimes it happens but I don't know why (Maybe in the future, I will fix this bug). 
