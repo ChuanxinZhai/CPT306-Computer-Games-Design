@@ -10,7 +10,7 @@ Development tool:   ![Unity](https://img.shields.io/badge/-Unity-000000?style=fl
 version: 2021.3.11f1c2   
 
 ### Game Guidance
-WASD movement
+WASD: move
 
 Left mouse: attack
 
