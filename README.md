@@ -2,6 +2,9 @@
 ### Game Intro
 Welcome to the exhilarating world of "Hero Survival", a riveting blend of action, survival, and adventure that brings a fresh perspective to the gaming landscape. The game offers a variety of different enemy types and map styles, giving players a whole new experience. The protagonist is stranded on the islands which are filled with monsters. All you have to do is to defend the ruthless and fearsome opponents and collect coins scattered around the map in order to score certain marks for survival. So, are you ready to dive into the gripping world of “Hero Survival”?
 
+![image](https://github.com/ChuanxinZhai/CPT306-Computer-Games-Design/assets/94314784/09b47290-4ba1-4af5-9da3-31b8819314ad)
+
+
 Hero Survival is a desktop 3D game. You need to kill the monsters and collect coins to reach the mark to accuquire victory.
 
 ### Technology stack
