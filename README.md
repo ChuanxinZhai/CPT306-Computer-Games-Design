@@ -5,7 +5,7 @@ Welcome to the exhilarating world of "Hero Survival", a riveting blend of action
 ![image](https://github.com/ChuanxinZhai/CPT306-Computer-Games-Design/assets/94314784/09b47290-4ba1-4af5-9da3-31b8819314ad)
 
 
-Hero Survival is a desktop 3D game. You need to kill the monsters and collect coins to reach the mark to accuquire victory.
+Hero Survival is a desktop 3D game. There are two levels in this game. You need to kill the monsters and collect coins to reach the mark to accuquire victory. 
 
 ### Technology stack
 Development tool:   ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
